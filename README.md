@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @nabooll
-- 👀 I’m interested in Machine Learning and Artificial Intelligence
+- 👀 I’m interested in Artificial Intelligence
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
